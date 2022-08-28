@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232166226306",
+    "project_id": "ko-buzzer",
+    "storage_bucket": "ko-buzzer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232166226306:android:cc63b7d2c44f18c1a0f79b",
+        "android_client_info": {
+          "package_name": "com.example.ko_buzzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232166226306-94i65qp2g2u4clsc5gr8kprtq524c36n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4J6aWwHgf2wHESmZKPGq1V7O-W2-MJi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232166226306-94i65qp2g2u4clsc5gr8kprtq524c36n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
